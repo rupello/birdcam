@@ -2,6 +2,8 @@
 
 A collection of assets for my bird feeder camera.
 
+![Example](capture.png)
+
 ## Hardware
 * Binoculars & tripod
 * Raspberry Pi 2/3/4
