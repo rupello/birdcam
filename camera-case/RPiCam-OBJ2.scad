@@ -56,11 +56,11 @@ KOyo = 1.15; // keepout edge offset
 
 ff = 0.2;  // amount to increase ID due to printer slop
 
-MOd = 45.2+ff;  // OD of AmScope 4x microscope objective
-MOz = 10;    // length of constant-OD part of objective barrel
+MOd = 22.0+ff;  // OD of AmScope 4x microscope objective
+MOz = 13;    // length of constant-OD part of objective barrel
 MOoff = 7.3;  // height offset of objective
 // MOoff = -10;  // height offset of objective
-MOda = 45.2+ff;  // OD of 2nd barrel part
+MOda = 22.5+ff;  // OD of 2nd barrel part
 MOza = 5.0;  // height of 2nd barrel part
 
 BHwt = 2.0;  // wall thickness of objective barrel holder
